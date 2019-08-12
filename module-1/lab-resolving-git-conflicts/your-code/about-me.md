@@ -1,4 +1,5 @@
-Hello! My name is Alona. I was born in Ukraine, Kiev.
-Now I live in lisbon with my husband.
-We have a dog and a turtle.
-I study Python.
+# Who am I
+
+* Where are you from?
+* What do you do?
+* Do you have previous experience with technology/data?
